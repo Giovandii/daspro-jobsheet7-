@@ -31,5 +31,7 @@ public class SiakadFor14{
         System.out.println("_______________________________________________");
         System.out.println("Jumlah Siswa Yang Lulus\t\t:"+lulus);
         System.out.println("Jumlah Siswa Yang Tidak Lulus\t:"+tidaklulus);
+
+        sc.close();
     }
 }

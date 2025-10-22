@@ -51,6 +51,7 @@ public class SiakadWhile14 {
                 System.out.println("");
             }
             i++; //penamabahan nilai 1 agar dapat mengikuti jumlah siswa yang akan dimasukan nilai nya
+            input.close();
         }
     }
 }
