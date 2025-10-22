@@ -14,7 +14,7 @@ public class SiakadWhile14 {
             System.out.print("Masukan Nilai Siswa Ke-"+(i+1)+"\t:");
             nilai =input.nextInt(); //input nilai siswa
 
-            if(nilai<0 || nilai>100){   //batas nilai
+            if(nilai<0 || nilai>100){   //batas input nilai
                 System.out.println("Nilai Tidak Valid Maasukan Nilai Kembali");
                 System.out.println("");
                 continue;   //untuk melanjutkan program dan use harus menginput nilai lagi
