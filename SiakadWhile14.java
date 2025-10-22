@@ -16,6 +16,7 @@ public class SiakadWhile14 {
 
             if(nilai<0 || nilai>100){   //batas nilai
                 System.out.println("Nilai Tidak Valid Maasukan Nilai Kembali");
+                System.out.println("");
                 continue;   //untuk melanjutkan program dan use harus menginput nilai lagi
             }
 
